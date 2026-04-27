@@ -15,7 +15,7 @@
 
 ---
 
-## 📁 구조
+## 구조
 
 ```
 src/
@@ -33,7 +33,7 @@ src/
 
 ---
 
-## ▶️ 실행 방법
+## 실행 방법
 
 1. `satellite_6dof/src/main.m` 실행 후 생성된 `my_satellite_data.csv`를 `src/`에 위치
 2. MATLAB에서 `src/main.m` 실행
