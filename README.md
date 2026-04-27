@@ -9,7 +9,7 @@
 
 ```
 SDC(undergraduate research)/
-├── Numerical Analysis(with Matlab)/   # 수치해석 수업 과제
+├── Numerical Analysis(with Matlab)/   # 수치해석 review
 ├── satellite_6dof/                    # 위성 6DoF 자세제어 시뮬레이션
 ├── satellite_kalman/                  # 위성 자세추정 EKF
 └── optimal_traj/                      # 최적 랑데부 궤적 계산
