@@ -1,10 +1,10 @@
 # Numerical Analysis (with MATLAB)
 
-수치해석 수업 과제 모음. MATLAB Live Script(`.mlx`) 및 Jupyter Notebook(`.ipynb`)으로 작성.
+수치해석 수업 review 모음. MATLAB Live Script(`.mlx`) 및 Jupyter Notebook(`.ipynb`)으로 작성.
 
 ---
 
-## 📄 과제 목록
+## 목록
 
 | 파일 | 주제 |
 |------|------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ 환경
+## 환경
 
 - MATLAB R2023b 이상 (`.mlx`)
 - Python 3.x + NumPy, Matplotlib (`.ipynb`)
